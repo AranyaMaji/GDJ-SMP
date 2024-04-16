@@ -13,7 +13,7 @@
 <img src="https://github.com/AranyaMaji/GDJ-SMP/blob/main/Images/release.png" alt="Release" />
 
 - Open Modrinth app and click on **+** (Create Profile)  
-<img src="https://github.com/AranyaMaji/GDJ-SMP/blob/main/Images/create-modpack.png" alt="Create Profile" />
+<img src="https://github.com/AranyaMaji/GDJ-SMP/blob/main/Images/create-profile.png" alt="Create Profile" />
 
 - Choose ***From File***  
 <img src="https://github.com/AranyaMaji/GDJ-SMP/blob/main/Images/from-file.png" alt="From File" />
