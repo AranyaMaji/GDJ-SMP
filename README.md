@@ -35,6 +35,7 @@ Follow these instructions if you own a legitimate copy of Minecraft Java Edition
 ## Cracked
 Follow these instructions if you **don't** have a legitimate copy of Minecraft Java Edition.
 
+ * Ensure you have [**Java 17**](https://download.oracle.com/java/17/latest/jdk-17_windows-x64_bin.msi). Delete previous versions of Java.
  * Download [**PollyMC**](https://github.com/fn2006/PollyMC/releases) executable
  * Go through the installation by clicking ***next*** for every prompt
  * Navigate to the [**latest release**](https://github.com/AranyaMaji/GDJ-SMP/releases/latest) of the modpack
