@@ -1,5 +1,5 @@
 <div>
-<img src="https://github.com/AranyaMaji/GDJ-SMP/blob/main/Images/Frame%201.png" width="512"/>
+<img src="https://github.com/AranyaMaji/GDJ-SMP/blob/main/Images/Frame%201.jpg" width="512"/>
 </div>
 A mod pack for the GDJ SMP, heavily optimized for low-end devices.
 
